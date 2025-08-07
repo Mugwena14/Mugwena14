@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHjtsFswiuFJw/profile-displaybackgroundimage-shrink_350_1400/B56ZhlgJBpHMAg-/0/1754049587948?e=1757548800&v=beta&t=jvfEbFxlhcIMawo7CFh3jDBoRNngavAlstQ2eGiwkFY)](https://github.com/Mugwena14/Mugwena14)
 <h1 align="center">Hi 👋, I'm Makhubele Langavi</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRAbAqQmkXsWvqB5Whq9WXoV29EJ3836YbMw&s"/>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5603AQF2f7QxGkj4wg/profile-displayphoto-scale_200_200/B56ZhlcJCpHMAg-/0/1754048534826?e=1757548800&v=beta&t=-PpKvvtcRdBYxC5hfexhXpxNsZ_PlWFLnrq6xZZtkkc"/>
 
 - 🔭 I’m currently working on [LoopKart](https://loopkart.co.za/)
 
