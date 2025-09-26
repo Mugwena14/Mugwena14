@@ -50,13 +50,13 @@ Credits and references used in this README:
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
         <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="LoopKart"
+             alt="Matric IQ"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Matric IQ</b><br/>
       <sub>Built a CAPS focused educational App.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      🔗 <a href="https://github.com/Mugwena14/MatrIQ">Repo</a>
       <br/>
       <sub>ReactJs, NodeJs, Tailwindcss, MongoDB</sub>
     </td>
