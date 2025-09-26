@@ -36,7 +36,7 @@ Credits and references used in this README:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Mugwena14/YoJobs/blob/master/README.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+        <img src="https://github.com/Mugwena14/Mugwena14/blob/main/LoopKarttpng.png"
              alt="LoopKart"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -49,7 +49,7 @@ Credits and references used in this README:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Mugwena14/MatrIQ/blob/master/README.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+        <img src="https://github.com/Mugwena14/Mugwena14/blob/main/light.png"
              alt="Matric IQ"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
