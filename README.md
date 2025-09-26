@@ -35,7 +35,7 @@ Credits and references used in this README:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+      <a href="https://github.com/Mugwena14/YoJobs/blob/master/README.md">
         <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
              alt="LoopKart"
              style="width:100%; height:200px; object-fit:cover;"/>
@@ -48,7 +48,7 @@ Credits and references used in this README:
       <sub>ReactJs, NodeJs, Tailwindcss, MongoDB</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+      <a href="https://github.com/Mugwena14/MatrIQ/blob/master/README.md">
         <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
              alt="Matric IQ"
              style="width:100%; height:200px; object-fit:cover;"/>
