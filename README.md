@@ -16,7 +16,7 @@ Credits and references used in this README:
 
 ## About Me
 - I’m a MERN Full-Stack Developer.
-- I bring into developing clean, responsive frontends and efficient, scalable backends.
+- I bring into development, clean responsive frontends and efficient, scalable backends.
 - Created an educational app with over 500 users.
 
 
