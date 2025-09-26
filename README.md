@@ -1,24 +1,93 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHjtsFswiuFJw/profile-displaybackgroundimage-shrink_350_1400/B56ZhlgJBpHMAg-/0/1754049587948?e=1757548800&v=beta&t=jvfEbFxlhcIMawo7CFh3jDBoRNngavAlstQ2eGiwkFY)](https://github.com/Mugwena14/Mugwena14)
-<h1 align="center">Hi 👋, I'm Makhubele Langavi</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5603AQF2f7QxGkj4wg/profile-displayphoto-scale_200_200/B56ZhlcJCpHMAg-/0/1754048534826?e=1757548800&v=beta&t=-PpKvvtcRdBYxC5hfexhXpxNsZ_PlWFLnrq6xZZtkkc"/>
+<!--
+Credits and references used in this README:
 
-- 🔭 I’m currently working on [LoopKart](https://loopkart.co.za/)
+1) Layout ideas and section inspiration:
+   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
 
-- 🌱 I’m currently learning **Tailwindcss**
+2) Skill icons (SVG badges):
+   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 
-- 💬 Ask me about **React, Javascript, CSS & HTML**
+3) GitHub stats card:
+   https://github.com/anuraghazra/github-readme-stats
+-->
 
-- 📫 How to reach me **mlangaviclyde@gmail.com**
+# 🐐 Makhubele Langavi Clyde
+**`Software Developer`** 
 
-- ⚡ Fun fact **I think i am funny enough to land a job after my first ever interview😁**
+## About Me
+- I’m a MERN Full-Stack Developer.
+- I bring into developing clean, responsive frontends and efficient, scalable backends.
+- Created an educational app with over 500 users.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/langavi-makhubele-clyde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/langavi-makhubele-clyde/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,nodejs,mongodb,html,css,tailwindcss,github,git,postman,vscode&theme=light)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugwena14&show_icons=true&locale=en&layout=compact" alt="mugwena14" /></p>
+**Also comfortable with**:  RESTful APIs, Database Design, Authentication & Authorization (JWT), Deployment (Vercel, Firebase), Git/GitHub workflows, and Testing tools (Postman).
+
+
+---
+
+## Projects - showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="LoopKart"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>LoopKart</b><br/>
+      <sub>Built a free dynamic marketplace.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <br/>
+      <sub>ReactJs, NodeJs, Tailwindcss, MongoDB</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+             alt="LoopKart"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Matric IQ</b><br/>
+      <sub>Built a CAPS focused educational App.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <br/>
+      <sub>ReactJs, NodeJs, Tailwindcss, MongoDB</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stats
+<!-- Stats card by langavi/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Langavis' GitHub stats](https://github-readme-stats.vercel.app/api?username=mugwena14&show_icons=true&theme=gruvbox)
+
+---
+
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
+- [**Contact**](mailto:maximus@nextwork.org)
+
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+
+<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
